@@ -1,0 +1,2 @@
+# Movie-API-Task-Backend-
+Use any language including but not limited to Go, Rust, Haskell, PHP, Ruby, NodeJS, Dart and etc  Use developer API from The Movie DB to retrieve photos and save those photos in your server. You could retrieve any photo you like.  Keep the title, description, filename and its original link on The Movie DB of each photo in any data format chosen.  Handle the json query request from a user to query photo name, description, filename and its orginal link from your data storage.
